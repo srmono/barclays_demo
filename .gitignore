@@ -1,0 +1,4 @@
+logs/
+test_*.log
+*.tmp
+
